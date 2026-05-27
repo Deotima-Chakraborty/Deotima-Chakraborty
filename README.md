@@ -21,6 +21,4 @@ I am passionate about computational biology, bioinformatics, and scientific data
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deotima-Chakraborty&show_icons=true)
